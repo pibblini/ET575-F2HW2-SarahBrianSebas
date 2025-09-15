@@ -1,5 +1,10 @@
 "ID",TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,RESOLVED,NOTES
 1,task,c062654ff16be3d3a1c701bd5066ae24ab329bf2,closed,TASK A PT1,,Sarah,9/9,9/9,
-2,task,,,TASK A PT2,,,,,
-3,,,,,,,,,
-4,,,,,,,,,
+2,task,d221ff823acd9f20508df64d3e9b0a8b7df53418,closed,TASK A PT2,,Sebas,9/14,9/14,
+3,task,30424da31b4beeb872cad497062254287728feff,closed,TASK A PT 3,,Brian,9/14,9/14,
+4,task,fffb52dc658acd324d5f74100a747c151dc47e67,closed,TASK B PT1,,Sarah,9/15,9/15,
+5,task,,,TASK B PT2,,Sebas,9/15,,
+6,task,,,TASK B PT3,,Brian,9/15,,
+7,task,,,TASK C PT1,,Sarah,9/16,,
+8,task,,,TASK C PT2,,Sebas,9/16,,
+9,task,,,TASK C PT3,,Brian,9/16,,
